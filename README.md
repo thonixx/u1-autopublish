@@ -10,8 +10,10 @@ It automatically pastes the public Ubuntu One link to your clipboard which you c
 usage
 -------------
 just run the script with the directory which should be monitored for file changes and automatic sharing.  
-example:
-    /home/user/u1-autopublish/autopublis.py /home/user/Ubuntu\ One/public
+example:  
+```bash
+/home/user/u1-autopublish/autopublish.py /home/user/Ubuntu\ One/public
+```
 
 source: http://rtg.in.ua/2010/08/19/ubuntu-one-automatic-publishing/  
 originally made by: https://github.com/roman-yepishev
