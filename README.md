@@ -1,7 +1,8 @@
 u1-autopublish
 ==============
 
-Script which automatically publishs a new file in a specific directory.
+Script which automatically publishs a new file in a specific directory.  
+Sadly Ubuntu One got shut down on July 2014 therefore the script does not work anymore.  
 
 why my script?
 ==============
